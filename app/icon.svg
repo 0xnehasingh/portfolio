@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Neha Singh">
-  <rect width="32" height="32" rx="7" fill="#12110e"/>
-  <rect x="5.5" y="8" width="21" height="16" rx="2.5" fill="#f3ecdf"/>
-  <circle cx="5.5" cy="16" r="2.1" fill="#12110e"/>
-  <circle cx="26.5" cy="16" r="2.1" fill="#12110e"/>
-  <path d="M13 8.8v14.4" stroke="#12110e" stroke-width="1.2" stroke-dasharray="1.4 1.6"/>
-  <circle cx="20.2" cy="16" r="2.3" fill="none" stroke="#9a3412" stroke-width="1.3"/>
-</svg>
